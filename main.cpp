@@ -44,7 +44,7 @@ public:
 	}
 
 	void recbook() {
-		cout << "ive recbook" << endl; //2.b
+		cout << "ive recbook" << endl; //2.c
 	}
 };
 
@@ -60,7 +60,7 @@ public:
 		this->num_of_debts = num_of_debts;
 	}
 
-	void Message() {//2.c
+	void Message() {//2.b
 		cout << "Bad_student" << endl;
 	}
 
